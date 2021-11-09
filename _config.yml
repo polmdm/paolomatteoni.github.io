@@ -127,7 +127,7 @@ content:
           Forlì, Italy | Final grade: 110 with honours | Thesis: Design and Sizing of CubeSat's Power Subsystem
         description: | # this will include new lines to allow paragraphs
           Internship @ Spacemind for the design, development and testing of Cubesat's Electrical Power System.
-          
+
 - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -163,21 +163,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-      - layout: top-middle
-        title: European Cansat Competition - Legosat
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Cansat are satellites the size of can aimed to perform a parabolic flight and collect scientific data.
-        description: | # this will include new lines to allow paragraphs
-          Legosat introduces a modular design for CanSats made of Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
+      # - layout: top-middle
+      #   title: European Cansat Competition - Legosat
+      #   # link: github.com/sproogen
+      #   # link_text: Project Website
+      #   # additional_links:
+      #   #  - title:  sproogen/modern-resume-theme
+      #   #    icon: fab fa-github
+      #   #    url: github.com/sproogen/modern-resume-theme
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     Cansat are satellites the size of can aimed to perform a parabolic flight and collect scientific data.
+      #   description: | # this will include new lines to allow paragraphs
+      #     Legosat introduces a modular design for CanSats made of Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
 
   - title: A Little More About Me
     layout: text
