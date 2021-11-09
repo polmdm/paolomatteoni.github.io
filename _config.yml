@@ -12,7 +12,7 @@ email: email@gmail.com
 website: www.paolomatteoni.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 twitter_username: polmdmd
@@ -204,7 +204,7 @@ content:
   - title: Memberships # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: left
         title: Rotaract
         caption: 2020 - Present
         sub-title: President
