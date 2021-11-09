@@ -209,24 +209,27 @@ content:
         caption: 2020 - Present
         sub-title: President
         link: rotaractclubrimini.wordpress.com
-        link_text: Association Website
+        # link_text: Association Website
         additional_links:
          - title:  Instagram
-           icon: fab fa-github
+           icon: fab fa-instagram
            url: instagram.com/rotaract_club_rimini
+         - title:  Facebook
+           icon: fab fa-facebook
+           url: facebook.com/rotaract_club_rimini
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Fellowship through service. Paoul Harris
-        # description: | # this will include new lines to allow paragraphs
-        #   President of Rotaract Club Rimini
+        quote: >
+          Fellowship through service. Paoul Harris
+        description: | # this will include new lines to allow paragraphs
+          President of Rotaract Club Rimini
       - layout: left
         title: Euroavia
         caption: 2018 - Present
         sub_title: IT Manager
         link: euroaviaforlibologna.eu
-        link_text: Association Website
+        # link_text: Association Website
         additional_links:
          - title:  Instagram
            icon: fab fa-instagram
