@@ -22,7 +22,7 @@ github_username:  polmdmd
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: paolo.matteoni
-linkedin_username: paolomatteoni
+linkedin_username: paolo-matteoni
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -217,11 +217,8 @@ content:
          - title:  Facebook
            icon: fab fa-facebook
            url: facebook.com/rotaract_club_rimini
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Fellowship through service. Paoul Harris
+          Fellowship Through Service
         description: | # this will include new lines to allow paragraphs
           President of Rotaract Club Rimini
       - layout: left
