@@ -114,6 +114,8 @@ content:
 
           **Internship:** TBD
 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
       - layout: left
         title: Università di Bologna
         caption: 2016 - 2019
@@ -129,14 +131,23 @@ content:
 
           **Internship:** Spacemind: design, development and testing of Cubesat's Electrical Power System.
 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
       - layout: left
         title: Liceo Scientifico "Albert Einstein"
         caption: 2011 - 2016
         sub_title: Scientific High School Degree
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Internship @ Spacemind for the design, development and testing of Cubesat's Electrical Power System.
+          **City:** Rimini, Italy 🇮🇹
+
+          **Final Grade:** 100/100
+
+          **Thesis:** Legosat...
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
