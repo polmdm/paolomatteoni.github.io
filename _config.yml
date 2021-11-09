@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Ideas # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -128,7 +128,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Internship @ Spacemind for the design, development and testing of Cubesat's Electrical Power System.
 
-- title: Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
