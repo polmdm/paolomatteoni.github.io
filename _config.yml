@@ -106,21 +106,28 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Grade:**
+          **City:** Milano, Italy 🇮🇹
 
-          **City:** Milano
+          **Final Grade:**
 
           **Thesis:** TBD
+
+          **Internship:** TBD
 
       - layout: left
         title: Università di Bologna
         caption: 2016 - 2019
         sub_title: BSc Aerospace Engineering
-        quote: >
-          "Forlì, Italy | Final grade: 110 with honours"
+        # quote: >
+        #   "Forlì, Italy | Final grade: 110 with honours"
         description: | # this will include new lines to allow paragraphs
-          Thesis: Design and Sizing of CubeSat's Power Subsystem.
-          Internship at Spacemind: design, development and testing of Cubesat's Electrical Power System.
+          **City:** Forlì, Italy 🇮🇹
+
+          **Final Grade:** 110 cum laude
+
+          **Thesis:** Design and Sizing of CubeSat's Power Subsystem.
+
+          **Internship:** Spacemind: design, development and testing of Cubesat's Electrical Power System.
 
       - layout: left
         title: Liceo Scientifico "Albert Einstein"
