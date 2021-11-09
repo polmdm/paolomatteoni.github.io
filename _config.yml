@@ -208,25 +208,25 @@ content:
         title: Rotaract
         caption: 2020 - Present
         sub-title: President
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
+        link: rotaractclubrimini.wordpress.com
+        link_text: Association Website
+        additional_links:
+         - title:  Instagram
+           icon: fab fa-github
+           url: instagram.com/rotaract_club_rimini
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Fellowship through service. Paoul Harris
-        description: | # this will include new lines to allow paragraphs
-          President of Rotaract Club Rimini
+        # quote: >
+        #   Fellowship through service. Paoul Harris
+        # description: | # this will include new lines to allow paragraphs
+        #   President of Rotaract Club Rimini
       - layout: left
         title: Euroavia
         caption: 2018 - Present
         sub_title: IT Manager
         link: euroaviaforlibologna.eu
-        # link_text: Project Website
+        link_text: Association Website
         additional_links:
          - title:  Instagram
            icon: fab fa-instagram
