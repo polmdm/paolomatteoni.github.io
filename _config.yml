@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Paolo Matteoni
 title: Aerospace Engineer
-email: email@gmail.com
+# email: email@gmail.com
 website: www.paolomatteoni.com
 
 # Dark Mode (true/false/never)
@@ -201,43 +201,43 @@ content:
         description: | # this will include new lines to allow paragraphs
           Legosat introduces a modular design for CanSats exploiting Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
 
-  - title: Memberships # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Rotaract
-        caption: 2020 - Present
-        sub-title: President
-        link: rotaractclubrimini.wordpress.com
-        link_text: rotaractclubrimini.it
-        additional_links:
-         - title:  Instagram
-           icon: fab fa-instagram
-           url: instagram.com/rotaract_club_rimini
-         - title:  Facebook
-           icon: fab fa-facebook
-           url: facebook.com/rotaract_club_rimini
-        quote: >
-          Fellowship Through Service
-        description: | # this will include new lines to allow paragraphs
-          President of Rotaract Club Rimini
-      - layout: left
-        title: Euroavia
-        caption: 2018 - 2019
-        sub_title: IT Manager
-        link: euroaviaforlibologna.eu
-        # link_text: Association Website
-        additional_links:
-         - title:  Instagram
-           icon: fab fa-instagram
-           url: instagramcom/euroaviaforlibologna
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Fellowship through service. Paoul Harris
-        # description: | # this will include new lines to allow paragraphs
-        #   President of Rotaract Club Rimini
+  # - title: Memberships # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Rotaract
+  #       caption: 2020 - Present
+  #       sub-title: President
+  #       link: rotaractclubrimini.wordpress.com
+  #       link_text: rotaractclubrimini.it
+  #       additional_links:
+  #        - title:  Instagram
+  #          icon: fab fa-instagram
+  #          url: instagram.com/rotaract_club_rimini
+  #        - title:  Facebook
+  #          icon: fab fa-facebook
+  #          url: facebook.com/rotaract_club_rimini
+  #       quote: >
+  #         Fellowship Through Service
+  #       description: | # this will include new lines to allow paragraphs
+  #         President of Rotaract Club Rimini
+  #     - layout: left
+  #       title: Euroavia
+  #       caption: 2018 - 2019
+  #       sub_title: IT Manager
+  #       link: euroaviaforlibologna.eu
+  #       # link_text: Association Website
+  #       additional_links:
+  #        - title:  Instagram
+  #          icon: fab fa-instagram
+  #          url: instagramcom/euroaviaforlibologna
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       # quote: >
+  #       #   Fellowship through service. Paoul Harris
+  #       # description: | # this will include new lines to allow paragraphs
+  #       #   President of Rotaract Club Rimini
 
   - title: A Little More About Me
     layout: text
@@ -246,6 +246,7 @@ content:
       - Motorbike
       - Surfing
       - Technology
+      Moreover I am member of Euroavia Forlì Bologna and president of Rotaract Club Rimini.
 
 # Footer
 footer_show_references: true
