@@ -144,7 +144,7 @@ content:
 
           **Final Grade:** 100/100
 
-          **Thesis:** Legosat...
+          **Thesis:** Legosat
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
@@ -181,7 +181,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
         description: | # this will include new lines to allow paragraphs
           Phase 0 of a space mission aimed at studying Enceladus, a moon of Saturn, at ESA Concurrent Facility, ESEC - Galaxia, Belgium.
 
