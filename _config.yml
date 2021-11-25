@@ -244,12 +244,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in engineering and software some of my other interests and hobbies are:
       - Motorbike
-      - Surfing
+      - Stand Up Paddle
       - Technology
+
       Moreover I am member of Euroavia Forlì Bologna and president of Rotaract Club Rimini.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
