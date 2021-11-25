@@ -83,7 +83,7 @@ content:
         caption: October 2020 - Present
         quote: >
           Spacemind's core business is focused on research and development of products dedicated to space sector.
-          
+
         description: | # this will include new lines to allow paragraphs
             Development, production and integration of nano-satellite's Electrical Power System and Solar Panels.
       - layout: left
@@ -198,7 +198,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Cansat are satellites the size of can aimed to perform a parabolic flight and collect scientific data.
+          A CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink can. The team’s challenge is to fit all the major subsystems of a satellite inside this minimal volume, launched by a small rocket up to an altitude of 1 km. As the CanSat descends, its mission begins.
         description: | # this will include new lines to allow paragraphs
           Legosat introduces a modular design for CanSats exploiting Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
 
