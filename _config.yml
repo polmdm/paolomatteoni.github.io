@@ -247,7 +247,7 @@ content:
   - title: My skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-    <mark>UNIX</mark> / <mark>Office 365</mark>
+    <mark>UNIX</mark> / <mark>Office 365</mark> / <mark>MATLAB</mark> / <mark>Simulink</mark> / <mark>Python</mark> / <mark>HTML</mark> / <mark>Docker</mark> / <mark>RPi</mark>
 
   - title: A Little More About Me
     layout: text
