@@ -49,6 +49,7 @@ linkedin_username: paolo-matteoni
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Paolo and I'm young space engineer, mostly. I stand out in creativity and innovation, that's why I carry out tons of projects and ideas in my free time. Some of them are simply hoobies, others real business.
+
   I am currently working on my MSc thesis while designing and producing dedicated nano-satellite hardware and software at Spacemind.
 
   I am most skilled in: <mark>Matlab</mark> and <mark>Eating Pizza</mark>
@@ -243,13 +244,20 @@ content:
   #       # description: | # this will include new lines to allow paragraphs
   #       #   President of Rotaract Club Rimini
 
+  - title: My skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+    <mark>UNIX</mark> / <mark>Office 365</mark>
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in engineering and software some of my other interests and hobbies are:
       - Motorbike
-      - Stand Up Paddle
+      - 3D Printing
+      - SUP
       - Technology
+      - Photography and videography
 
       Moreover I am member of Euroavia Forlì Bologna and president of Rotaract Club Rimini.
 
