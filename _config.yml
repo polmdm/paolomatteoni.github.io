@@ -178,13 +178,13 @@ content:
         title: Mealot
         link: www.mealot.com
         link_text: Mealot
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        additional_links:
+         - title:  sproogen/modern-resume-theme
+           icon: fab fa-github
+           url: github.com/sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
         description: | # this will include new lines to allow paragraphs
