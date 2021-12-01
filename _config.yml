@@ -88,7 +88,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
             Development, production and integration of nano-satellite's Electrical Power System and Solar Panels.
-      - layout: left
+      - layout: right
         title: Hotel Benini
         link: hotelbenini.it
         # link_text: boringcompany.com
