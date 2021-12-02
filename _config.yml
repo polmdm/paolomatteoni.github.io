@@ -316,14 +316,69 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in engineering and software some of my other interests and hobbies are:
-      - Motorbike
-      - 3D Printing
-      - SUP
-      - Technology
-      - Photography
+      **I LIKE**
 
-      Moreover I am member of Euroavia Forlì Bologna and president of Rotaract Club Rimini.
+      * Motorbike
+      * SUP
+      * Technology
+      * Space
+      * Summer
+      * Podcasts
+      * 3D Printing
+      * Photography
+
+      **TRAVEL**
+      I am from originally from Rimini, Italy. I have since lived in Milano.
+      I've been to ~ 10 countries, some of which I have forgotten, and many of which I would like to revisit.
+
+      <mark>Spain</mark> \| <mark>France</mark> \| <mark>Belgium</mark> \| <mark>England</mark> \| <mark>Sweden</mark> \| <mark>Norway</mark> \| <mark>Greece</mark> \| <mark>Dubai</mark> \| <mark>Thailand</mark> \| 
+
+# In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+# In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
+# In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
+# In 2019, I visited: Canada, England, France, and Switzerland.
+# In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
+# In 2021, I hope to start traveling again.
+# I am an Oregon Trail II enthusiast.
+# FUN FACTS
+
+# I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
+# I almost always have a sketchbook with me and a 01 Sakura Pigma Micron Pen.
+# I can't locate every country on a map.
+# I operate a small angel fund with terrible returns.
+# I break about 30 traffic laws on a cruiser, onewheel, bicycle, or electric skateboard every single day.
+# I added this page because so many people complained that my site was just my resume.
+# I DREAM OF
+
+# always finding inspiration.
+# enabling a brighter future.
+# doing better.
+# you not checking the commit history for earlier drafts of this file.
+# WEBSITES FROM PEOPLE I ADMIRE
+
+# Alex Peysakhovich
+# Chris Lengerich
+# Chris Saad
+# Duncan Tomlin
+# Hawley Moore
+# Holman Gao
+# Ian Webster
+# Johanna Flato
+# Judy Mou
+# Kristina Monakhova
+# Noah Trueblood
+# Ruoxi Wang
+# Tom Sachs
+
+
+#       Alongside my interests in engineering and software some of my other interests and hobbies are:
+#       - Motorbike
+#       - 3D Printing
+#       - SUP
+#       - Technology
+#       - Photography
+
+#       Moreover I am member of Euroavia Forlì Bologna and president of Rotaract Club Rimini.
 
 # Footer
 footer_show_references: false
