@@ -173,7 +173,7 @@ content:
           Supervisor: Michèle Lavagna.
 
       - layout: top-middle
-        title: Mealot
+        title: Bocconi for Innovation - Mealot
         link: www.mealot.com
         link_text: Mealot
         # additional_links:
@@ -184,9 +184,9 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
+          B4i selects the most innovative ideas and the startups with the greatest potential to help them grow and succeed by investing the experience, knowledge, time and resources of the wider Bocconi community.
         description: | # this will include new lines to allow paragraphs
-          Phase 0 of a space mission aimed at studying Enceladus, a moon of Saturn, at ESA Concurrent Facility, ESEC - Galaxia, Belgium.
+          Co-founder of Mealot, a startup in the food delivery aimed at connecting onnect customers to local kitchens serving healthy meals from excees food.
       - layout: top-middle
         title: Concurrent Engineering Challenge
         # link: github.com/sproogen
