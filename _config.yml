@@ -110,7 +110,7 @@ content:
         #   The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
         description: | # this will include new lines to allow paragraphs
           **City:** Milano, Italy 🇮🇹
-          
+
           Politecnico di Milano is a scientific-technological university which trains engineers, architects and industrial designers.
           The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
 
@@ -176,7 +176,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Legosat introduces a modular design for CanSats exploiting Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
 
-  - title: My skills
+  - title: My Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Hard Skills**
