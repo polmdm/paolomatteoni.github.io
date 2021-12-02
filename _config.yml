@@ -271,6 +271,8 @@ content:
   - title: Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
+      **Master**
+      
       [Orbital Mechanics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=083794&aa=2019&k_cf=225&k_corso_la=470&ac_ins=0&k_indir=NDE&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=1&idItemOfferta=141890&idRiga=240456&codDescr=083794) -
       [Space Propulsion](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=099259&lang=EN&semestre=2&anno_corso=1&idItemOfferta=141893&idRiga=240459) -
       [Dynamics and Control of Space Structures](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=099262&lang=EN&semestre=2&anno_corso=1&idItemOfferta=141892&idRiga=240458) -
@@ -278,8 +280,36 @@ content:
       [Space Physics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=097486&lang=EN&semestre=1&anno_corso=2&idItemOfferta=141899&idRiga=240465) -
       [Spacecraft Attitude Dynamics and Control](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=091357&lang=EN&semestre=1&anno_corso=2&idItemOfferta=141898&idRiga=240464) -
       [Heat Transfer and Thermal Analysis](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=083903&lang=EN&semestre=2&anno_corso=1&idItemOfferta=141894&idRiga=240460) -
-      [Aerospace Control Systems]() -
-      [Space Mission Analysis and Design](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=052781&lang=EN&semestre=2&anno_corso=2&idItemOfferta=141902&idRiga=240474) -
+      [Aerospace Control Systems](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=055743&aa=2020&k_cf=225&k_corso_la=469&ac_ins=0&k_indir=AER&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=2&idGruppo=4200&idRiga=262327&codDescr=055743) -
+      [Space Mission Analysis and Design](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=052781&lang=EN&semestre=2&anno_corso=2&idItemOfferta=141902&idRiga=240474)
+
+      **Bachelor**
+
+      Aeronautical Structures -
+      Air Law -
+      Air Traffic Control -
+      Aircraft Aerodynamics -
+      Aircraft and Aerospace Design -
+      Aircraft on-board systems -
+      Aeronautical and Space Propulsion -
+      Turbomachinery  -
+      Automatic Controls -
+      Basics Principles of Chemistry -
+      Economics and Business Organisation -
+      Electrotechnics -
+      Flight Mechanics -
+      Fluid Dynamics -
+      General Physics A & B -
+      Geometry and Algebra -
+      Laboratory of Design -
+      Laboratory of Propulsion -
+      Mathematical Analysis A & B -
+      Mechanics of Materials and Structures -
+      Numerical Analysis -
+      Principles of Aerospace Engineering -
+      Principles of Informatics -
+      Rational Mechanics -
+      Satellites and Space Missions
 
   - title: A Little More About Me
     layout: text
