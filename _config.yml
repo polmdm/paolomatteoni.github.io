@@ -316,38 +316,35 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **I LIKE**
+      **MY HOBBIES ARE**
 
       <mark>Motorbike</mark> \| <mark>SUP</mark> \| <mark>Space</mark> \| <mark>Summer</mark> \| <mark>Podcasts</mark> \| <mark>3D Printing</mark> \| <mark>Photogaphy</mark> \| <mark>Technology</mark>
+
 
       **TRAVEL & GEOGRAPHY**
 
       I am from originally from Rimini, Italy, and I still live there, however I study in Milan, work in Imola and spend my summer mostly in Milano Marittima.
-      I've been to ~ 10 countries now, some of which I have forgotten, and many of which I would like to revisit.
+      I've been to ~ 12 countries now, some of which I have forgotten, and many of which I would like to revisit.
+
+      <mark>Italy</mark> : Rome, Milan, Florence, Venice, Turin, Padova, Naples, Bologna, Verona, Genova, Perugia, Catania, Bari
+
+      <mark>Greece</mark> : Athens, Olympia, Delfi, Patrasso, Corfù, Mykonos
 
       <mark>Spain</mark> : Barcellona, Madrid, Seville, Tenerife
       
-      <mark>France</mark> : Paris
+      <mark>France</mark> : Paris, Corsica
       
-      <mark>Belgium</mark> : Bruxelles, Liege
+      <mark>Belgium</mark> : Bruxelles, Libin
       
       <mark>England</mark> : London, Brighton, Dublin
       
       <mark>Sweden</mark> : Stockolm
       
       <mark>Norway</mark> : Oslo
-      
-      <mark>Greece</mark> : Athens, Olympia, Delfi, Patrasso, Corfù, Mykonos
-      
-      <mark>United Arab Emirates</mark> : Dubai
-      
-      <mark>Thailand</mark> : Pucket
-
-      <mark>Cabo Verde</mark> :
-
-      <mark>Mauritius</mark> :
 
       <mark>Ungary</mark> : Budapest
+
+      and in <mark>Dubai</mark>, <mark>Thailand</mark>, <mark>Cabo Verde</mark>, <mark>Mauritius</mark>.
 
 # In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
 # In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
