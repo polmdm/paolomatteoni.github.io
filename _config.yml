@@ -271,7 +271,8 @@ content:
   - title: Selected Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Master**
+      
+      My background is mostly centerd on:
 
       [Orbital Mechanics](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=083794&aa=2019&k_cf=225&k_corso_la=470&ac_ins=0&k_indir=NDE&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=1&idItemOfferta=141890&idRiga=240456&codDescr=083794) -
       [Space Propulsion](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=099259&lang=EN&semestre=2&anno_corso=1&idItemOfferta=141893&idRiga=240459) -
