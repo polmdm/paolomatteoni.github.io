@@ -111,11 +111,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           **City:** Milano, Italy 🇮🇹
 
-          **Final Grade:** TBD
+        # **Final Grade:** TBD
 
-          **Thesis:** TBD
+        # **Thesis:** TBD
 
-          **Internship:** TBD
+        # **Internship:** TBD
 
           Politecnico di Milano is a scientific-technological university which trains engineers, architects and industrial designers.
           The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
@@ -142,7 +142,6 @@ content:
         caption: 2011 - 2016
         sub_title: Scientific High School Degree
         # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **City:** Rimini, Italy 🇮🇹
 
@@ -156,15 +155,6 @@ content:
     content:
       - layout: top-middle
         title: TEASPOON - SMAD
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The course teaches how to put in practice the fundamentals to accomplish a complete feasibility study and pre-phase A phase for a Space mission, according to the Agencies standards.
         description: | # this will include new lines to allow paragraphs
@@ -173,15 +163,6 @@ content:
 
       - layout: top-middle
         title: Bocconi for Innovation - Mealot
-        # link: www.mealot.com
-        # link_text: Mealot
-        # additional_links:
-        #  - title:  resume
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           B4i selects the most innovative ideas and the startups with the greatest potential to help them grow and succeed by investing the experience, knowledge, time and resources of the wider Bocconi community.
         description: | # this will include new lines to allow paragraphs
@@ -189,15 +170,6 @@ content:
 
       - layout: top-middle
         title: Concurrent Engineering Challenge
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
         description: | # this will include new lines to allow paragraphs
@@ -205,57 +177,10 @@ content:
 
       - layout: top-middle
         title: European Cansat Competition - Legosat
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink can. The team’s challenge is to fit all the major subsystems of a satellite inside this minimal volume, launched by a small rocket up to an altitude of 1 km. As the CanSat descends, its mission begins.
         description: | # this will include new lines to allow paragraphs
           Legosat introduces a modular design for CanSats exploiting Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
-
-  # - title: Memberships # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: Rotaract
-  #       caption: 2020 - Present
-  #       sub-title: President
-  #       link: rotaractclubrimini.wordpress.com
-  #       link_text: rotaractclubrimini.it
-  #       additional_links:
-  #        - title:  Instagram
-  #          icon: fab fa-instagram
-  #          url: instagram.com/rotaract_club_rimini
-  #        - title:  Facebook
-  #          icon: fab fa-facebook
-  #          url: facebook.com/rotaract_club_rimini
-  #       quote: >
-  #         Fellowship Through Service
-  #       description: | # this will include new lines to allow paragraphs
-  #         President of Rotaract Club Rimini
-  #     - layout: left
-  #       title: Euroavia
-  #       caption: 2018 - 2019
-  #       sub_title: IT Manager
-  #       link: euroaviaforlibologna.eu
-  #       # link_text: Association Website
-  #       additional_links:
-  #        - title:  Instagram
-  #          icon: fab fa-instagram
-  #          url: instagramcom/euroaviaforlibologna
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       # quote: >
-  #       #   Fellowship through service. Paoul Harris
-  #       # description: | # this will include new lines to allow paragraphs
-  #       #   President of Rotaract Club Rimini
 
   - title: My skills
     layout: text
@@ -314,7 +239,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **MY HOBBIES ARE**
+      **MY HOBBIES**
 
       <mark>Motorbike</mark> \| <mark>SUP</mark> \| <mark>Space</mark> \| <mark>Summer</mark> \| <mark>Podcasts</mark> \| <mark>3D Printing</mark> \| <mark>Photogaphy</mark> \| <mark>Technology</mark>
 
