@@ -268,7 +268,7 @@ content:
 
       <mark>Team Work</mark> \| <mark>Gin Tonic</mark> \| <mark>Networking</mark>
 
-  - title: Courses
+  - title: Selected Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Master**
@@ -285,33 +285,33 @@ content:
       [Estimation and Learning in Aerospace](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=097495&lang=EN&semestre=1&anno_corso=2&idItemOfferta=141899&idRiga=240467) -
       [Space Mission Analysis and Design](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=470&k_indir=NDE&codDescr=052781&lang=EN&semestre=2&anno_corso=2&idItemOfferta=141902&idRiga=240474)
 
-      **Bachelor**
+    # **Bachelor**
 
-      [Aeronautical Structures](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Air Law](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Air Traffic Control](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Aircraft Aerodynamics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Aircraft and Aerospace Design](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Aircraft on-board systems](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Aeronautical and Space Propulsion](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Turbomachinery](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Automatic Controls](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Basics Principles of Chemistry](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Economics and Business Organisation](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Electrotechnics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Flight Mechanics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Fluid Dynamics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [General Physics A & B](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Geometry and Algebra](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Laboratory of Design](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Laboratory of Propulsion](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Mathematical Analysis A & B](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Mechanics of Materials and Structures](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Numerical Analysis](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Principles of Aerospace Engineering](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Principles of Informatics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Rational Mechanics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
-      [Satellites and Space Missions](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017)
+    # [Aeronautical Structures](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Air Law](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Air Traffic Control](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Aircraft Aerodynamics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Aircraft and Aerospace Design](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Aircraft on-board systems](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Aeronautical and Space Propulsion](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Turbomachinery](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Automatic Controls](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Basics Principles of Chemistry](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Economics and Business Organisation](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Electrotechnics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Flight Mechanics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Fluid Dynamics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [General Physics A & B](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Geometry and Algebra](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Laboratory of Design](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Laboratory of Propulsion](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Mathematical Analysis A & B](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Mechanics of Materials and Structures](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Numerical Analysis](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Principles of Aerospace Engineering](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Principles of Informatics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Rational Mechanics](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017) -
+    # [Satellites and Space Missions](https://corsi.unibo.it/laurea/IngegneriaAerospaziale/insegnamenti/piano/2021/9234/000/000/2017)
 
   - title: A Little More About Me
     layout: text
@@ -349,7 +349,7 @@ content:
       and in <mark>Switzerland 🇨🇭</mark>, <mark>Austria 🇦🇹</mark>, <mark>Dubai 🇦🇪</mark>, <mark>Thailand 🇹🇭</mark>, <mark>Cabo Verde 🇨🇻</mark>, <mark>Mauritius 🇲🇺</mark>.
 
       **Membership and Networking**
-      
+
       Member of Euroavia Forlì Bologna and President of Rotaract Club Rimini.
 
 # Footer
