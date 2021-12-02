@@ -124,8 +124,8 @@ content:
         title: Università di Bologna
         caption: 2016 - 2019
         sub_title: BSc Aerospace Engineering
-        quote: >
-          The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
+        # quote: >
+          # The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
         description: | # this will include new lines to allow paragraphs
           **City:** Forlì, Italy 🇮🇹
 
@@ -135,7 +135,7 @@ content:
 
           **Internship:** Spacemind: design, development and testing of Cubesat's Electrical Power System.
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
 
       - layout: left
         title: Liceo Scientifico "Albert Einstein"
