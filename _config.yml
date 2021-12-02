@@ -167,7 +167,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The course teaches how to put in practice the fundamentals to accomplish a complete feasibility study and pre-phase A phase for a Space mission, according to the Agencies standards.
-
         description: | # this will include new lines to allow paragraphs
           Power budget and Electrical Power System design of TEASPOON - a space mission to the Outer Solar System, aimed at studying Sedna and discover new Kuiper Belt Objects.
           Supervisor: Michèle Lavagna.
@@ -188,7 +187,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Co-founder of [Mealot](mealot.com), a startup in the food delivery aimed at connecting onnect customers to local kitchens serving healthy meals from excees food.
 
-          
       - layout: top-middle
         title: Concurrent Engineering Challenge
         # link: github.com/sproogen
