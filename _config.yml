@@ -107,7 +107,6 @@ content:
         caption: 2019 - Present
         sub_title: MSc Space Engineering
         # quote: >
-        #   The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
         description: | # this will include new lines to allow paragraphs
           **City:** Milano, Italy 🇮🇹
 
@@ -119,7 +118,6 @@ content:
         caption: 2016 - 2019
         sub_title: BSc Aerospace Engineering
         # quote: >
-          # The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
         description: | # this will include new lines to allow paragraphs
           **City:** Forlì, Italy 🇮🇹
 
