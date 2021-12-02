@@ -174,8 +174,8 @@ content:
 
       - layout: top-middle
         title: Bocconi for Innovation - Mealot
-        link: www.mealot.com
-        link_text: Mealot
+        # link: www.mealot.com
+        # link_text: Mealot
         # additional_links:
         #  - title:  resume
         #    icon: fab fa-github
@@ -186,7 +186,7 @@ content:
         quote: >
           B4i selects the most innovative ideas and the startups with the greatest potential to help them grow and succeed by investing the experience, knowledge, time and resources of the wider Bocconi community.
         description: | # this will include new lines to allow paragraphs
-          Co-founder of Mealot, a startup in the food delivery aimed at connecting onnect customers to local kitchens serving healthy meals from excees food.
+          Co-founder of [Mealot](mealot.com), a startup in the food delivery aimed at connecting onnect customers to local kitchens serving healthy meals from excees food.
       - layout: top-middle
         title: Concurrent Engineering Challenge
         # link: github.com/sproogen
