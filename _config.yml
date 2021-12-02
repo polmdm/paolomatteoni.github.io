@@ -106,8 +106,8 @@ content:
         title: Politecnico di Milano
         caption: 2019 - Present
         sub_title: MSc Space Engineering
-        quote: >
-          The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
+        # quote: >
+        #   The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
         description: | # this will include new lines to allow paragraphs
           **City:** Milano, Italy 🇮🇹
 
