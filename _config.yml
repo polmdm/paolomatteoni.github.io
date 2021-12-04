@@ -233,6 +233,7 @@ content:
       <mark>Mauritius 🇲🇺</mark> \|
       <mark>Malta 🇲🇹</mark> \|
       <mark>Egypt 🇪🇬</mark>
+
       <br>
 
       **MEMBERSHIP AND NETWORKING**
@@ -240,8 +241,8 @@ content:
       Member of *Euroavia Forlì Bologna* and President of *Rotaract Club Rimini*.
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: Aerospace Engineer
 
 # Build settings
 remote_theme: sproogen/resume-theme
