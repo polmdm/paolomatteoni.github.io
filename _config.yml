@@ -203,7 +203,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **MY HOBBIES**
+      **I LIKE**
 
       <mark>Motorbike</mark> \| <mark>SUP</mark> \| <mark>Space</mark> \| <mark>Summer</mark> \| <mark>Podcasts</mark> \| <mark>3D Printing</mark> \| <mark>Photogaphy</mark> \| <mark>Technology</mark>
 
@@ -233,27 +233,6 @@ content:
       <mark>Mauritius 🇲🇺</mark> \|
       <mark>Malta 🇲🇹</mark> \|
       <mark>Egypt 🇪🇬</mark>
-
-    # <mark>Italy 🇮🇹</mark> : Rome, Milan, Florence, Venice, Turin, Padova, Naples, Bologna, Verona, Genova, Perugia, Catania, Bari
-
-    # <mark>Greece 🇬🇷</mark> : Athens, Olympia, Delfi, Patrasso, Corfù, Mykonos
-
-    # <mark>Spain 🇪🇸</mark> : Barcellona, Madrid, Seville, Tenerife
-
-    # <mark>England 🇬🇧</mark> : London, Brighton, Dublin
-    
-    # <mark>France 🇫🇷</mark> : Paris, Corsica
-    
-    # <mark>Belgium 🇧🇪</mark> : Bruxelles, Libin
-    
-    # <mark>Sweden 🇸🇪</mark> : Stockolm
-    
-    # <mark>Norway 🇳🇴</mark> : Oslo
-
-    # <mark>Hungary 🇭🇺</mark> : Budapest
-
-    # and in <mark>Netherlands 🇳🇱</mark>, <mark>Switzerland 🇨🇭</mark>, <mark>Austria 🇦🇹</mark>, <mark>Dubai 🇦🇪</mark>, <mark>Thailand 🇹🇭</mark>, <mark>Cabo Verde 🇨🇻</mark>, <mark>Mauritius 🇲🇺</mark>.
-
       <br>
 
       **MEMBERSHIP AND NETWORKING**
