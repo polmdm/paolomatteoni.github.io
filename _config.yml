@@ -97,7 +97,7 @@ content:
         quote: >
           Family-run hotel since 1993 for 3 generation now. Located directly on Adriatic Coast it features a wonderful view of the sea yet being extremely quiet and peaceful.
         description: | # this will include new lines to allow paragraphs
-            Long standing back office experience in management, administration and technical skills of family's owned hotel. IT manager, website developer and system administrator.
+            Long standing back office experience in management, administration and technical skills of family's owned hotel. IT management, website full-stack-development and system administration.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
