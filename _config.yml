@@ -87,11 +87,10 @@ content:
 
         description: | # this will include new lines to allow paragraphs
                 + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
-        + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
-        + Modeling and simulation at system and component level;
-        + Integration and quality controls of Cubesats;
-        + Deadlines and task management of the team.
-        # <mark>KiCAD</mark> \|
+                + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
+                + Modeling and simulation at system and component level;
+                + Integration and quality controls of Cubesats;
+                + Deadlines and task management of the team.
       - layout: right
         title: Hotel Benini
         link: hotelbenini.it
