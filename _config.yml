@@ -12,7 +12,7 @@ title: Aerospace Engineer
 website: www.paolomatteoni.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: polmdm
@@ -87,8 +87,8 @@ content:
 
         description: | # this will include new lines to allow paragraphs
 # Responsible for the development, production, and integration of nanosatellite's Electrical Power System and Solar Panels. Strong experience in project management, requirements definition, and ICD.
-            * ElectricalPowerSystem-Requirementsandarchitecturedefi- nition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
-            * Solar Panels - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
+            + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
+            + Solar Panels - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
             + Modeling and simulation at system and component level;
             + Integration and quality controls of Cubesats;
             + Deadlines and task management of the team.
