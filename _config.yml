@@ -86,12 +86,12 @@ content:
           Spacemind core business focuses on the R&D of space products. Innovative solutions range from small satellite missions, CubeSat, and nanosatellite hardware to professional observatory telescope mount and tracking systems.
 
         description: | # this will include new lines to allow paragraphs
-          In charge of:
           + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
           + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
           + Modeling and simulation at system and component level;
           + Integration and quality controls of Cubesats;
           + Deadlines and task management of the team.
+          <mark>KiCAD</mark> \| <mark>SolidWorks</mark> \| <mark>Matlab & Simulink </mark> \| <mark>Python</mark> \|
       - layout: right
         title: Hotel Benini
         link: hotelbenini.it
@@ -101,15 +101,7 @@ content:
         quote: >
           Family-run hotel since 1993 for 3 generation now. Located directly on Adriatic Coast it features a wonderful view of the sea yet being extremely quiet and peaceful.
         description: | # this will include new lines to allow paragraphs
-            Long standing back office experience in management, administration and technical skills of family's owned hotel. IT management, website full-stack-development and system administration.
-  
-  - title:
-    layout: text
-    content: |
-      ![alt text](/images/visual_cell.jpg#lab "Solar Panel")
-      ![alt text](/images/visual_cell.jpg#lab "Solar Panel")
-      ![alt text](/images/visual_cell.jpg#lab "Solar Panel")
-    
+            Long standing experience in **management**, back office activities and **administration**. Greet visitors, technical support and IT responsible.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,6 +114,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           **City:** Milano, Italy 🇮🇹
 
+          **Final Grade:** 104/110
+
+          **Thesis:** COTS-based EPS and advanced manufacturing techniques for the new generation of nano-satellites.
+
           Politecnico di Milano is a scientific-technological university which trains engineers, architects and industrial designers.
           The University has always focused on the quality and innovation of its teaching and research, developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.
 
@@ -133,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **City:** Forlì, Italy 🇮🇹
 
-          **Final Grade:** 110 cum laude
+          **Final Grade:** 110/110 cum laude
 
           **Thesis:** Design and Sizing of CubeSat's Power Subsystem.
 
@@ -141,17 +137,17 @@ content:
 
           The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
 
-      - layout: left
-        title: Liceo Scientifico "Albert Einstein"
-        caption: 2011 - 2016
-        sub_title: Scientific High School Degree
-        # quote: >
-        description: | # this will include new lines to allow paragraphs
-          **City:** Rimini, Italy 🇮🇹
+      # - layout: left
+      #   title: Liceo Scientifico "Albert Einstein"
+      #   caption: 2011 - 2016
+      #   sub_title: Scientific High School Degree
+      #   # quote: >
+      #   description: | # this will include new lines to allow paragraphs
+      #     **City:** Rimini, Italy 🇮🇹
 
-          **Final Grade:** 100/100
+      #     **Final Grade:** 100/100
 
-          **Thesis:** Legosat
+      #     **Thesis:** Legosat
 
 
   - title: Projects # Title for the section
