@@ -86,12 +86,13 @@ content:
           Spacemind core business focuses on the R&D of space products. Innovative solutions range from small satellite missions, CubeSat, and nanosatellite hardware to professional observatory telescope mount and tracking systems.
 
         description: | # this will include new lines to allow paragraphs
-# Responsible for the development, production, and integration of nanosatellite's Electrical Power System and Solar Panels. Strong experience in project management, requirements definition, and ICD.
-            + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
-            + Solar Panels - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
-            + Modeling and simulation at system and component level;
-            + Integration and quality controls of Cubesats;
-            + Deadlines and task management of the team.
+        # Responsible for the development, production, and integration of nanosatellite's Electrical Power System and Solar Panels. Strong experience in project management, requirements definition, and ICD.\
+        + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
+        + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
+        + Modeling and simulation at system and component level;
+        + Integration and quality controls of Cubesats;
+        + Deadlines and task management of the team.
+        <mark>KiCAD</mark> \|
       - layout: right
         title: Hotel Benini
         link: hotelbenini.it
