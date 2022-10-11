@@ -91,24 +91,24 @@ content:
           + Modeling and simulation at system and component level;
           + Integration and quality controls of Cubesats;
           + Deadlines and task management of the team.
-          <mark>KiCAD</mark> \| <mark>SolidWorks</mark> \| <mark>Matlab & Simulink </mark> \| <mark>Python</mark> \|
+
       - layout: right
         title: Hotel Benini
         link: hotelbenini.it
         # link_text: boringcompany.com
         sub_title: Administrative Secretary
-        caption: June 2014 - September 2019
+        caption: June 2014 - September 2020
         quote: >
           Family-run hotel since 1993 for 3 generation now. Located directly on Adriatic Coast it features a wonderful view of the sea yet being extremely quiet and peaceful.
         description: | # this will include new lines to allow paragraphs
-            Long standing experience in **management**, back office activities and **administration**. Greet visitors, technical support and IT responsible.
+          Long standing experience in **management**, back office activities and **administration**. Greet visitors, technical support and IT responsible.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Politecnico di Milano
-        caption: 2019 - Present
+        caption: 2019 - 2022
         sub_title: MSc Space Engineering
         # quote: >
         description: | # this will include new lines to allow paragraphs
@@ -137,17 +137,17 @@ content:
 
           The University of Bologna has been founded in 1088 by an organised guild of students, it is the oldest university in continuous operation in the world, and the first university in the sense of a higher-learning and degree-awarding institute, as the word universitas was coined at its foundation.
 
-      # - layout: left
-      #   title: Liceo Scientifico "Albert Einstein"
-      #   caption: 2011 - 2016
-      #   sub_title: Scientific High School Degree
-      #   # quote: >
-      #   description: | # this will include new lines to allow paragraphs
-      #     **City:** Rimini, Italy 🇮🇹
+      - layout: left
+        title: Liceo Scientifico "Albert Einstein"
+        caption: 2011 - 2016
+        sub_title: Scientific High School Degree
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          **City:** Rimini, Italy 🇮🇹
 
-      #     **Final Grade:** 100/100
+          **Final Grade:** 100/100
 
-      #     **Thesis:** Legosat
+          **Thesis:** Legosat
 
 
   - title: Projects # Title for the section
