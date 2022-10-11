@@ -92,7 +92,7 @@ content:
         + Modeling and simulation at system and component level;
         + Integration and quality controls of Cubesats;
         + Deadlines and task management of the team.
-        <mark>KiCAD</mark> \|
+        # <mark>KiCAD</mark> \|
       - layout: right
         title: Hotel Benini
         link: hotelbenini.it
