@@ -3,3 +3,10 @@
 ---
 
 @import 'modern-resume-theme';
+
+img[src$="#lab"] {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+    max-width: 30%;
+  }
