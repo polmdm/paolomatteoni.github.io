@@ -178,7 +178,7 @@ content:
       - layout: top-middle
         title: European Cansat Competition - Legosat
         quote: >
-          A CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink can. The team’s challenge is to fit all the major subsystems of a satellite inside this minimal volume, launched by a small rocket up to an altitude of 1 km. As the CanSat descends, its mission begins.
+          A CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink can. The team's challenge is to fit all the major subsystems of a satellite inside this minimal volume, launched by a small rocket up to an altitude of 1 km. As the CanSat descends, its mission begins.
         description: | # this will include new lines to allow paragraphs
           Legosat introduces a modular design for CanSats exploiting Lego and control system, fans' based, for a controlled reentry. Legosat challenged both into Italian and European Cansat final competition.
 
