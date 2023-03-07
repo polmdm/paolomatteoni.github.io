@@ -48,7 +48,7 @@ linkedin_username: paolo-matteoni
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Paolo and I'm young space engineer, mostly. I stand out in creativity and innovation, that's why I carry out tons of projects and ideas in my free time. Some of them are simply hoobies, others real business. My dream is to contribute to \textbf{scientific research} by bringing my know-how and expertise to \textbf{space missions} aimed at advancing humankind.
+  Hi, my name's Paolo and I'm young space engineer, mostly. I stand out in creativity and innovation, that's why I carry out tons of projects and ideas in my free time. Some of them are simply hoobies, others real business. My dream is to contribute to **scientific research** by bringing my know-how and expertise to **space missions** aimed at advancing humankind.
 
   I am most skilled in: <mark>Matlab</mark> and <mark>Eating Pizza</mark>
 # I am currently working on my MSc thesis while designing and producing dedicated nano-satellite hardware and software at Spacemind.
@@ -189,15 +189,7 @@ content:
           Power budget and Electrical Power System design of TEASPOON - a space mission to the Outer Solar System, aimed at studying Sedna and discover new Kuiper Belt Objects.
           Supervisor: Michèle Lavagna.
           
-      - layout: top-middle
-        title: Concurrent Engineering Challenge - Power
-        quote: >
-          The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
-        description: | # this will include new lines to allow paragraphs
-          Concurrent engineering approach to a Phase 0 for a space mission aimed at performing in-situ investigation of geyser phenomena of Enceladus, a Saturn's moon.
-          Responsible of power management and distribution subsystem for ESA team.
-          Concurrent Engineering Challenge 2019 at ESA Concurrent Facility, ESEC - Galaxia, Belgium.
-          <mark>OCDT</mark>
+
 
       - layout: top-middle
         title: Bocconi for Innovation - Mealot
