@@ -189,7 +189,15 @@ content:
           Power budget and Electrical Power System design of TEASPOON - a space mission to the Outer Solar System, aimed at studying Sedna and discover new Kuiper Belt Objects.
           Supervisor: Michèle Lavagna.
           
-
+      - layout: top-middle
+        title: Concurrent Engineering Challenge - Power
+        quote: >
+          The CDF’s infrastructure, methodology and processes allow teams of experts from different engineering disciplines to work in close coordination in the same place at the same time to complete the most complex designs imaginable.
+        description: | # this will include new lines to allow paragraphs
+          Concurrent engineering approach to a Phase 0 for a space mission aimed at performing in-situ investigation of geyser phenomena of Enceladus, a Saturn's moon.
+          Responsible of power management and distribution subsystem for ESA team.
+          Concurrent Engineering Challenge 2019 at ESA Concurrent Facility, ESEC - Galaxia, Belgium.
+          <mark>OCDT</mark>
 
       - layout: top-middle
         title: Bocconi for Innovation - Mealot
