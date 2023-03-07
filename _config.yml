@@ -77,6 +77,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Leonardo
+        link: leonardo.com
+        # link_text: boringcompany.com
+        sub_title: Power System Engineer
+        caption: January 2023 - Ongoing
+        quote: >
+          Spacemind core business focuses on the R&D of space products. Innovative solutions range from small satellite missions, CubeSat, and nanosatellite hardware to professional observatory telescope mount and tracking systems.
+
+        description: | # this will include new lines to allow paragraphs
+          Responsible for the testing and validation of Space Rider Orbiting Module's Power Control and Distribution Unit. Focus on:
+          + **Testing** Proof-of-concept of the unit, calibration of unit properties and features (current limiter, under-voltage, trip-off times, telemetries, telecommands, FPGA etc.);
+          + **AIV/AIT** - Functional verification and validation activities;
+          + **Documentation** - ICD, test procedure and reports, sequences, lab diary and NC handling;
+          + **Laboratory** - Responsible for my department laboratory management, tools, instrumentation and operators;
+          + **Project** - Management and monitoring of activities, such proposal evaluation, supplier interactions etc.;
+
+      - layout: right
         title: Spacemind
         link: npcspacemind.com
         # link_text: boringcompany.com
@@ -92,7 +109,7 @@ content:
           + Integration and quality controls of Cubesats;
           + Deadlines and task management of the team.
 
-      - layout: right
+      - layout: left
         title: Hotel Benini
         link: hotelbenini.it
         # link_text: boringcompany.com
