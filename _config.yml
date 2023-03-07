@@ -103,11 +103,16 @@ content:
           Spacemind core business focuses on the R&D of space products. Innovative solutions range from small satellite missions, CubeSat, and nanosatellite hardware to professional observatory telescope mount and tracking systems.
 
         description: | # this will include new lines to allow paragraphs
-          + **Electrical Power System** Requirements and architecture definition, responsible of the design, production and testing. Power sources and batteries sizing, architecture designer;
-          + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates, testing;
-          + Modeling and simulation at system and component level;
-          + Integration and quality controls of Cubesats;
-          + Deadlines and task management of the team.
+          Familiarity and practical expertise with the design, development, and verification of a satellite's subsystems, including:
+          + **Design and Integration** - Coordination of the design starting from customer's high level requirements and inputs. A trade-off between COTS systems and custom components;
+          + **Electrical Power System** - Requirements and architecture definition, subsystem sizing, responsible for the design, production, validation and testing. Supply chain control and monitoring;
+          + **Solar Panels** - Design and manufacturing of body-mounted and deployable solar panels on different substrates. Integration on various platforms, quality control, validation and testing;
+          + **Industrial procurement** and work methodology experience;
+          + Support to integration of satellites on deployers and launchers;
+          + AIV/AIT activities on CubeSats and cleanroom experience;
+          + Modelling and simulation at system and component level;
+          + Deadlines, coordination and task management of the team;
+          + Documentation, requirements and proposal provisioning.
 
       - layout: left
         title: Hotel Benini
