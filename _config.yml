@@ -92,6 +92,8 @@ content:
           + **Documentation** - ICD, test procedure and reports, sequences, lab diary and NC handling;
           + **Laboratory** - Responsible for my department laboratory management, tools, instrumentation and operators;
           + **Project** - Management and monitoring of activities, such proposal evaluation, supplier interactions etc.;
+          
+          <mark>Matlab & Simulink</mark> \| <mark>Excel</mark>
 
       - layout: right
         title: Spacemind
@@ -113,6 +115,8 @@ content:
           + Modelling and simulation at system and component level;
           + Deadlines, coordination and task management of the team;
           + Documentation, requirements and proposal provisioning.
+          
+          <mark>KiCad</mark> \| <mark>SolidWorks</mark> \| <mark>Python</mark> \| <mark>Unix</mark>
 
       - layout: left
         title: Hotel Benini
@@ -124,6 +128,8 @@ content:
           Family-run hotel since 1993 for 3 generation now. Located directly on Adriatic Coast it features a wonderful view of the sea yet being extremely quiet and peaceful.
         description: | # this will include new lines to allow paragraphs
           Long standing experience in **management**, back office activities and **administration**. Greet visitors, technical support and IT responsible.
+          
+          <mark>HTML & CSS</mark> \| <mark>MS Office</mark> \| <mark>Adobe</mark> \|
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
